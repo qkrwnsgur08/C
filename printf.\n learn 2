@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(void)
+{
+	printf("이    름:박준혁\n");
+	printf("학    번:1400\n");
+	printf("전화번호:010 - 0000 - 0000\n");
+	return 0;
+}
