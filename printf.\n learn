@@ -1,0 +1,10 @@
+
+#include <stdio.h>
+
+int main(void)
+{
+	printf("박준혁\n");
+	printf("박 준 혁\n");
+	printf("박  준  혁\n");
+		return 0;
+}
