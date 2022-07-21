@@ -1,0 +1,4 @@
+int main()
+{
+	printf("실수 출력 %f\n", 1.4);
+	return 0;
