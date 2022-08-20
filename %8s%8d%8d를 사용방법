@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main()
+{
+	printf("%8s%8s%8s \n", "item", "count", "price");
+	printf("%8s%8d%8d \n", "pen", 20, 100);
+	printf("%8s%8d%8d \n", "note", 5, 95);
+	printf("%8s%8d%8d \n", "eraser", 110, 97);
+	return 0;
+}
