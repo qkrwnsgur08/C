@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main()
+{
+	printf("%s%4d \n", "kor", 90);
+	printf("%s%4d \n", "mat", 80);
+	printf("%s%5d \n", "eng", 100);
+	printf("%s%5d \n", "sum",90+80+100);
+	printf("%s = %d+%d+%d \n", "합계", 90, 80, 100);
+	return 0;
+}
