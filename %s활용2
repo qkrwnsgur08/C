@@ -1,0 +1,7 @@
+//#include<stdio.h>
+//
+//int main()
+//{
+//	printf("%3s%6s%3s%6s \n", "my", "name", "is", "Hong");
+//	return 0;
+//}
