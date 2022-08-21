@@ -1,0 +1,8 @@
+#include<stdio.h>
+
+int main()
+{
+	printf("%6s%11s \n", "My", "hometown");
+	printf("%13s%10s \n", "Flowering", "Mountain");
+	return 0;
+}
